@@ -1,0 +1,5 @@
+Options +ExecCGI
+AddHandler cgi-script py
+AddHandler cgi-script cgi
+RewriteEngine  on
+#Redirect /astro/cviceni  https://www.chovanec.com/astro/cviceni.py
