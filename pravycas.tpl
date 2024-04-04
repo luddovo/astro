@@ -5,7 +5,7 @@
   	<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pravý čas</title>
     <script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA2Q9rCza1IZfayuc5lRqaYQEJ1-2v_Q_Q&sensor=false">
+      src="https://maps.googleapis.com/maps/api/js?key=XXXXXX&sensor=false">
     </script>
     <script>
 function refreshPage() {
